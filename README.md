@@ -1,107 +1,84 @@
-# 👋 Olá, eu sou David Willian 🚀
+<div align="center">
 
-### Desenvolvedor Full Stack | Backend & Integrações | APIs e Sistemas Escaláveis
+  <h1>👋 Olá, eu sou o David Willian</h1>
+  <p><strong>Desenvolvedor Backend & Full Stack | Engenharia de Software | APIs & Microsserviços</strong></p>
 
-Sou desenvolvedor **Full Stack** com foco em **backend, integrações e construção de APIs**, atuando no desenvolvimento de soluções que conectam sistemas, plataformas e serviços externos de forma **segura, performática e bem estruturada**.
+  <p>
+    <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/Davidwillcarv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 
-Atualmente faço parte do time de integrações da **SouJunior**, trabalhando no desenvolvimento e manutenção de soluções que integram **VTEX.IO**, sistemas legados e APIs externas, sempre com atenção à **segurança, rastreabilidade e organização do código**.
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" width="100%" />
 
-> *Tecnologia de verdade é aquela que resolve um problema com eficiência e clareza, seja em grandes operações ou em negócios locais.*
-
----
-
-## 💡 Sobre mim
-
-- Desenvolvedor **Full Stack com foco em backend**
-- Experiência com **APIs REST, integrações e microsserviços**
-- Atuação em projetos para pequenas e médias empresas, como:
-  - Controle de estoque  
-  - Sistemas financeiros  
-  - Automação de processos  
-- Perfil colaborativo, com foco em **boas práticas, aprendizado contínuo e resolução de problemas reais**
+</div>
 
 ---
 
-## ⚡ Tecnologias & Ferramentas
+### 💡 Sobre Mim
 
-### 🧠 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-333?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+Desenvolvedor de Software com sólida experiência no ciclo completo de desenvolvimento (**SDLC**), atuando desde a engenharia de requisitos e modelagem de arquitetura até a implementação e monitoramento em produção.
 
----
-
-### ⚙️ Frameworks & Bibliotecas
-![NestJS](https://img.shields.io/badge/NestJS-333?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express.js-333?style=for-the-badge&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-333?style=for-the-badge&logo=laravel)
-![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django)
-![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-333?style=for-the-badge&logo=vue.js)
-![Next.js](https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=next.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap)
-![Sass](https://img.shields.io/badge/Sass-333?style=for-the-badge&logo=sass)
+- 🎯 **Especialidades:** Ecossistemas Java (Spring Boot) e Node.js (NestJS, Express), TypeScript e React.
+- 🚀 **Foco:** APIs RESTful de alta performance, microsserviços orientados a eventos e integração de sistemas complexos de e-commerce e gestão.
+- 📍 **Localização:** Coimbra, Portugal
 
 ---
 
-### 🔌 Integrações & Arquitetura
-![REST](https://img.shields.io/badge/REST_API-333?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-333?style=for-the-badge&logo=graphql)
-![WebSockets](https://img.shields.io/badge/WebSockets-333?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-333?style=for-the-badge)
-![Serverless](https://img.shields.io/badge/Serverless-333?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase)
-![VTEX](https://img.shields.io/badge/VTEX.IO-333?style=for-the-badge)
+### ⚡ Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| **Mensageria & Async** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Arquitetura & Gestão** | RESTful • GraphQL • WebSockets • Serverless • Webhooks • SOLID • Clean Code • Git • Scrum • Jira |
 
 ---
 
-### 🗄️ Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-333?style=for-the-badge&logo=redis)
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge)
+### 🔥 Principais Atuações & Destaques
+
+<details open>
+  <summary><strong>🏗️ Arquitetura de Microsserviços & APIs</strong></summary>
+  <br>
+  Engenharia e implantação de serviços de alta disponibilidade com Java (Spring Boot) e Node.js (NestJS/Express), integrando autenticação segura (JWT/Firebase Auth).
+</details>
+
+<details open>
+  <summary><strong>🔄 Integração de Sistemas & Processamento Assíncrono</strong></summary>
+  <br>
+  Desenvolvimento de rotinas em tempo real utilizando Webhooks, Kafka e RabbitMQ para desacoplamento de serviços e comunicação fluida entre microsserviços e plataformas como VTEX.
+</details>
+
+<details open>
+  <summary><strong>🗄️ Otimização de Bancos de Dados</strong></summary>
+  <br>
+  Modelagem e otimização de queries em PostgreSQL, MySQL, MongoDB e Redis focadas em baixíssima latência e alta performance.
+</details>
+
+<details open>
+  <summary><strong>💻 Automação & Sistemas Corporativos</strong></summary>
+  <br>
+  Desenvolvimento end-to-end de soluções de gestão, controle financeiro, controle de estoque e automação de fluxos operacionais.
+</details>
 
 ---
 
-### ☁️ DevOps & Infraestrutura
-![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-333?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-333?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-333?style=for-the-badge&logo=googlecloud)
-![Datadog](https://img.shields.io/badge/Datadog-333?style=for-the-badge&logo=datadog)
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidwillcarv&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidwillcarv&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Utilizadas" height="150"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidwillcarv&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📨 Mensageria
-![Kafka](https://img.shields.io/badge/Kafka-333?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-333?style=for-the-badge&logo=rabbitmq)
-
----
-
-### 🧩 Gestão & Metodologias
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![Jira](https://img.shields.io/badge/Jira-333?style=for-the-badge&logo=jira)
-![Trello](https://img.shields.io/badge/Trello-333?style=for-the-badge&logo=trello)
-![Scrum](https://img.shields.io/badge/Scrum-333?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-333?style=for-the-badge)
-
----
-
-## 🔥 Destaques
-
-- Desenvolvimento de **integrações seguras e rastreáveis** entre plataformas e APIs externas  
-- Construção de **APIs performáticas** voltadas para manutenção e evolução contínua  
-- Participação em projetos de **automação, estoque e finanças**  
-- Evolução técnica constante para entregar soluções cada vez mais **estáveis e bem estruturadas**
-
----
-
-## 📬 Vamos conversar?
-
-Fique à vontade para entrar em contato — será um prazer trocar ideias e construir soluções eficientes juntos.
